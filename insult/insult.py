@@ -8,7 +8,7 @@ class Insult(commands.Cog):
 
     def __init__(self):
         self.headers = {
-            'X-Mashape-Key': '48e794479dmshcb77dfe51dd853dp1606eajsn36b752ca3dca',
+            'x-rapidapi-key': '48e794479dmshcb77dfe51dd853dp1606eajsn36b752ca3dca',
             'Accept': 'text/plain',
         }
 
