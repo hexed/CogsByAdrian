@@ -10,6 +10,7 @@ class Insult(commands.Cog):
         self.headers = {
             'x-rapidapi-key': '48e794479dmshcb77dfe51dd853dp1606eajsn36b752ca3dca',
             'Accept': 'text/plain',
+            'x-rapidapi-host': 'lakerolmaker-insult-generator-v1.p.rapidapi.com',
         }
 
         self.params = {
